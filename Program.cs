@@ -311,7 +311,7 @@ public class GraphChatExample
                 PasswordProfile = new PasswordProfile
                 {
                     ForceChangePasswordNextSignIn = false,
-                    Password = "P@ssw0rd1234",
+                    Password = "***********",
                 },
             };
             // Add the user
